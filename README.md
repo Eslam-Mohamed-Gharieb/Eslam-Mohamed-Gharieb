@@ -2,9 +2,9 @@
 
 
 - 🔭 I'm acutally on [youtube] aswell !
-- 🌱 I’m currently learning everything related to Data analysis, ML, and App development.
-- 👯 I’m looking to  opportunities in the software market
-- 🥅 2020 Goals: Contribute more to Open Source projects and gain more knowledge in the industry
+- 🌱 I’m currently learning everything related to Data analysis.
+- 👯 I’m looking to  opportunities in the market
+- 🥅 2021 Goals: Contribute more to Open Source projects and gain more knowledge in the industry
 
 
 ### Connect with me:
