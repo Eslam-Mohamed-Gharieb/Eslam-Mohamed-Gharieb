@@ -3,7 +3,7 @@
 
 -  I’m currently learning everything related to Data analysis.
 -  I’m looking to  opportunities in the market
--  2021 Goals: Contribute more to Open Source projects and gain more knowledge in the industry
+-  2022 Goals: Contribute more to Open Source projects and gain more knowledge in the industry
 
 
 ### Connect with me:
